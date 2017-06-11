@@ -1,0 +1,19 @@
+{
+  "name": "@part-time-pros/discord-logger",
+  "version": "0.2.0",
+  "description": "Log to discord channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rocket-league-ptp/discord-logger.git"
+  },
+  "author": "illegal-function",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": "https://github.com/rocket-league-ptp/discord-logger/issues"
+  },
+  "homepage": "https://github.com/rocket-league-ptp/discord-logger#readme"
+}
